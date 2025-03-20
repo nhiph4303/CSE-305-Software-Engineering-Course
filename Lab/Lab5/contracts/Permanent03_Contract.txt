@@ -1,0 +1,1 @@
+RentalContract{contractType='Permanent', contractID='03', propertyID='04', tenantID='05', rentAmount=200.0}
